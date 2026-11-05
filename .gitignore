@@ -1,0 +1,17 @@
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+
+# Common generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+node_modules/
