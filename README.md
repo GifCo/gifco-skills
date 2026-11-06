@@ -6,6 +6,10 @@ A collection of reusable [Agent Skills](https://agentskills.io/specification). E
 skills/
   drunk-talk/
     SKILL.md
+  penpot/
+    SKILL.md
+    references/
+      building.md
 ```
 
 ## Skills
@@ -13,6 +17,7 @@ skills/
 | Skill | Purpose |
 | --- | --- |
 | [Drunk Talk](skills/drunk-talk/SKILL.md) | Give subsequent responses a silly, drunken style when requested. |
+| [Penpot](skills/penpot/SKILL.md) | Work on a Penpot page by ID or name through an existing MCP connection, preferring design tokens and reusable assets/components. |
 
 ## Use a skill with Codex
 
